@@ -8,10 +8,6 @@ This project uses a simple linear regression model to learn the pattern:
 
 ---
 
-## 📷 Preview
-
-![Machine Learning Concept](your_image.png)
-
 ---
 
 ## 🔍 What's Inside?
