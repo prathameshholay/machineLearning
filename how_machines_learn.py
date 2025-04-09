@@ -1,5 +1,28 @@
-#starting with importing required packages which is 1.scikit-learn's LinearRegression functions
-# which basically learns patter like y = 2x + 3
+# Starting with importing required packages
+# 1. scikit-learn's LinearRegression class — this lets the machine learn a pattern (like y = 2x + 3)
+# 2. numpy — used for handling numerical data and arrays
+
+# Go to terminal and follow these steps to run the code:
+
+"""
+1. Navigate to your repo folder:
+   cd "D:\machine learning basics\machineLearning"
+
+2. (Optional but recommended) Create a virtual environment:
+   python -m venv venv
+
+3. Activate the virtual environment:
+   On Windows:
+       venv\Scripts\activate
+   On macOS/Linux:
+       source venv/bin/activate
+
+4. Install required packages:
+   pip install scikit-learn numpy
+
+5. Run the Python file:
+   python how_machines_learn.py
+"""
 
 from sklearn.linear_model import LinearRegression
 import numpy as np
